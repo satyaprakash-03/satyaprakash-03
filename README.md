@@ -10,6 +10,7 @@ Software Engineering Student • Full Stack Developer • Generative AI Builder 
 Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.
 </p>
 
+
 ---
 
 # 🚀 About Me
@@ -23,6 +24,7 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 
 I enjoy building **production-grade web applications**, designing **clean APIs**, and solving **complex algorithmic problems**.
 
+- 📫 How to reach me : **satyaprakash.in33@gmail.com**
 ---
 
 # 🛠️ Tech Stack
